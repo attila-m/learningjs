@@ -1,0 +1,21 @@
+body {
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+#mainHeadline {
+    font-size: 50px;
+    color: red
+}
+
+#addButton {
+    font-size: 25px
+}
+
+#mainContent {
+    font-size: 35px
+}
+
+.active {
+    background: beige
+}
