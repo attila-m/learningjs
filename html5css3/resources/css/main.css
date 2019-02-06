@@ -3,6 +3,11 @@
     src: url("https://fonts.googleapis.com/css?family=Dosis") format("truetype");
 }
 
+@font-face {
+    font-family: "Roboto";
+    src: url("https://fonts.googleapis.com/css?family=Roboto+Mono") format("truetype");
+}
+
 body {
     background-color: #D1E8E2;
     margin: 0px;
@@ -21,3 +26,12 @@ body {
     margin: 0px
 
 }
+
+.profession {
+    font-family: "Roboto", Verdana, Tahoma;
+}
+
+.fluent-in {
+}
+
+
